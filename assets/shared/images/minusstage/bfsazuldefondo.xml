@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfsazuldefondo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfbailando10000" x="0" y="0" width="400" height="377" pivotX="-47.65" pivotY="-9.25" frameX="-24" frameY="-15" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="bfbailando10001" x="400" y="0" width="403" height="379" frameX="-21" frameY="-13" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="bfbailando10002" x="803" y="0" width="414" height="384" frameX="-11" frameY="-8" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="bfbailando10003" x="1217" y="0" width="424" height="391" frameX="-3" frameY="-2" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="bfbailando10004" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10005" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10006" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10007" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10008" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10009" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10010" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10011" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10012" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="bfbailando10013" x="0" y="391" width="429" height="393"/>
+</TextureAtlas>

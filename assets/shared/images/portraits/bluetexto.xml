@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluetexto.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bluetexto0000" x="0" y="0" width="408" height="386" pivotX="-302.35" pivotY="190.35" frameX="-2" frameY="-15" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluetexto0001" x="408" y="0" width="408" height="390" frameX="-1" frameY="-11" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluetexto0002" x="0" y="390" width="405" height="397" frameX="0" frameY="-3" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluetexto0003" x="405" y="390" width="404" height="400" frameX="0" frameY="0" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluetexto0004" x="405" y="390" width="404" height="400" frameX="0" frameY="0" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluetexto0005" x="405" y="390" width="404" height="400" frameX="0" frameY="0" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluetexto0006" x="405" y="390" width="404" height="400" frameX="0" frameY="0" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluetexto0007" x="405" y="390" width="404" height="400" frameX="0" frameY="0" frameWidth="410" frameHeight="401"/>
+	<SubTexture name="bluestop0000" x="405" y="390" width="404" height="400" frameX="0" frameY="0" frameWidth="410" frameHeight="401"/>
+</TextureAtlas>

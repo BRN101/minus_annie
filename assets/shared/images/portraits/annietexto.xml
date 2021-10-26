@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="annietexto.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annietext0000" x="0" y="0" width="515" height="683" pivotX="-33.15" pivotY="-31.3" frameX="0" frameY="-19" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="annietext0001" x="515" y="0" width="504" height="687" frameX="-1" frameY="-15" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="annietext0002" x="1019" y="0" width="503" height="699" frameX="-4" frameY="-4" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="annietext0003" x="1522" y="0" width="502" height="703" frameX="-3" frameY="0" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="annietext0004" x="1522" y="0" width="502" height="703" frameX="-3" frameY="0" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="annietext0005" x="1522" y="0" width="502" height="703" frameX="-3" frameY="0" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="annietext0006" x="1522" y="0" width="502" height="703" frameX="-3" frameY="0" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="annietext0007" x="1522" y="0" width="502" height="703" frameX="-3" frameY="0" frameWidth="515" frameHeight="703"/>
+	<SubTexture name="anniestop0000" x="1522" y="0" width="502" height="703" frameX="-3" frameY="0" frameWidth="515" frameHeight="703"/>
+</TextureAtlas>

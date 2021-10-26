@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meantexto.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meantexto0000" x="0" y="0" width="361" height="351" pivotX="-329.35" pivotY="157.65" frameX="-1" frameY="-8" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meantexto0001" x="361" y="0" width="355" height="353" frameX="-4" frameY="-6" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meantexto0002" x="0" y="353" width="352" height="357" frameX="-2" frameY="-2" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meantexto0003" x="352" y="353" width="361" height="359" frameX="0" frameY="0" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meantexto0004" x="352" y="353" width="361" height="359" frameX="0" frameY="0" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meantexto0005" x="352" y="353" width="361" height="359" frameX="0" frameY="0" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meantexto0006" x="352" y="353" width="361" height="359" frameX="0" frameY="0" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meantexto0007" x="352" y="353" width="361" height="359" frameX="0" frameY="0" frameWidth="362" frameHeight="359"/>
+	<SubTexture name="meanstop0000" x="352" y="353" width="361" height="359" frameX="0" frameY="0" frameWidth="362" frameHeight="359"/>
+</TextureAtlas>
