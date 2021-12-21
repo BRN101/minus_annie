@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liquidannie.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWNLIQUID0000" x="0" y="0" width="775" height="651" pivotX="66.95" pivotY="214.5" frameX="0" frameY="-18" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0001" x="775" y="0" width="769" height="649" frameX="-5" frameY="-20" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0002" x="1544" y="0" width="761" height="665" frameX="-19" frameY="-6" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0003" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0004" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0005" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0006" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0007" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0008" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0009" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0010" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0011" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0012" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0013" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="DOWNLIQUID0014" x="2305" y="0" width="760" height="671" frameX="-25" frameY="0" frameWidth="785" frameHeight="671"/>
+	<SubTexture name="arriba0000" x="3065" y="0" width="721" height="936" pivotX="13.35" pivotY="101.25" frameX="-8" frameY="0" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0001" x="3786" y="0" width="731" height="932" frameX="-6" frameY="-3" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0002" x="4517" y="0" width="752" height="924" frameX="-2" frameY="-11" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0003" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0004" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0005" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0006" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0007" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0008" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0009" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0010" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0011" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0012" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0013" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="arriba0014" x="5269" y="0" width="761" height="921" frameX="0" frameY="-14" frameWidth="761" frameHeight="936"/>
+	<SubTexture name="derechaliquid0000" x="6030" y="0" width="703" height="799" pivotX="-73.55" pivotY="-77.4" frameX="-31" frameY="-4" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0001" x="6733" y="0" width="700" height="800" frameX="-23" frameY="-3" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0002" x="7433" y="0" width="691" height="802" frameX="-6" frameY="-1" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0003" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0004" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0005" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0006" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0007" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0008" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0009" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0010" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="derechaliquid0011" x="0" y="936" width="689" height="803" frameX="0" frameY="0" frameWidth="734" frameHeight="803"/>
+	<SubTexture name="izquierdaliquid0000" x="689" y="936" width="785" height="827" pivotX="137.65" pivotY="-15.9" frameX="0" frameY="-6" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0001" x="1474" y="936" width="777" height="828" frameX="-14" frameY="-4" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0002" x="2251" y="936" width="754" height="827" frameX="-51" frameY="-1" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0003" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0004" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0005" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0006" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0007" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0008" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0009" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0010" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0011" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0012" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0013" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="izquierdaliquid0014" x="3005" y="936" width="745" height="826" frameX="-66" frameY="0" frameWidth="811" frameHeight="833"/>
+	<SubTexture name="liquididle0000" x="3750" y="936" width="824" height="859" pivotX="-6" pivotY="0" frameX="-7" frameY="-32" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0001" x="4574" y="936" width="823" height="861" frameX="-7" frameY="-30" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0002" x="5397" y="936" width="824" height="867" frameX="-5" frameY="-24" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0003" x="6221" y="936" width="824" height="876" frameX="-2" frameY="-15" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0004" x="7045" y="936" width="823" height="885" frameX="0" frameY="-6" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0005" x="0" y="1821" width="821" height="890" frameX="0" frameY="-1" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0006" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0007" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0008" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0009" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0010" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0011" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0012" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+	<SubTexture name="liquididle0013" x="821" y="1821" width="821" height="891" frameX="0" frameY="0" frameWidth="831" frameHeight="891"/>
+</TextureAtlas>

@@ -398,23 +398,19 @@ class TitleState extends MusicBeatState
 		switch (curBeat)
 		{
 			case 2:
-				createCoolText(['Valengarfy', 'BRN', 'Springy', 'EntroP', 'Jesterfrog', 'Graveyards']);
-			// credTextShit.visible = true;
+				createCoolText(['Valengarfy', 'BRN', 'Springy', 'EntroPy']);
 			case 3:
-				addMoreText('present');
-			// credTextShit.text += '\npresent...';
-			// credTextShit.addText();
-			case 4:
 				deleteCoolText();
-			// credTextShit.visible = false;
-			// credTextShit.text = 'In association \nwith';
-			// credTextShit.screenCenter();
+			case 4:
+				createCoolText(['Jesterfrog', 'Graveyards', 'Koixis']);
 			case 5:
+				deleteCoolText();
+			case 6:
 				if (Main.watermarks)
 					createCoolText(['Kade Engine', 'by']);
 				else
 					createCoolText(['In Partnership', 'with']);
-			case 7:
+			case 8:
 				if (Main.watermarks)
 					addMoreText('KadeDeveloper');
 				else
@@ -423,14 +419,14 @@ class TitleState extends MusicBeatState
 					ngSpr.visible = true;
 				}
 			// credTextShit.text += '\nNewgrounds';
-			case 8:
+			case 9:
 				deleteCoolText();
 				ngSpr.visible = false;
 			// credTextShit.visible = false;
 
 			// credTextShit.text = 'Shoutouts Tom Fulp';
 			// credTextShit.screenCenter();
-			case 9:
+			case 10:
 				createCoolText([curWacky[0]]);
 			// credTextShit.visible = true;
 			case 11:

@@ -109,22 +109,12 @@ class Note extends FlxSprite
 						{
 							case 2:
 							{
-								frames = Paths.getSparrowAtlas('Ketchup_Notes');
-								animation.addByPrefix('greenScroll', 'green instancia 1');
-								animation.addByPrefix('redScroll', 'red instancia 1');
-								animation.addByPrefix('blueScroll', 'blue instancia 1');
-								animation.addByPrefix('purpleScroll', 'purple instancia 1');
- 
-								animation.addByPrefix('purpleholdend', 'pruple end hold instancia 1');
-								animation.addByPrefix('greenholdend', 'green hold end instancia 1');
-								animation.addByPrefix('redholdend', 'red hold end instancia 1');
-								animation.addByPrefix('blueholdend', 'blue hold end instancia 1');
- 
-								animation.addByPrefix('purplehold', 'purple hold piece instancia 1');
-								animation.addByPrefix('greenhold', 'green hold piece instancia 1');
-								animation.addByPrefix('redhold', 'red hold piece instancia 1');
-								animation.addByPrefix('bluehold', 'blue hold piece instancia 1');
- 
+								frames = Paths.getSparrowAtlas('NOTE_assets2');
+								animation.addByPrefix('greenScroll', 'green0');
+								animation.addByPrefix('redScroll', 'red0');
+								animation.addByPrefix('blueScroll', 'blue0');
+								animation.addByPrefix('purpleScroll', 'purple0');
+
 								setGraphicSize(Std.int(width * 0.7));
 								
 								updateHitbox();
@@ -241,7 +231,7 @@ class Note extends FlxSprite
 				if (noteType != 2)
 				{
 					if (strumTime > Conductor.songPosition - Conductor.safeZoneOffset
-						&& strumTime < Conductor.songPosition + (Conductor.safeZoneOffset * 0.5))
+						&& strumTime < Conductor.songPosition + (Conductor.safeZoneOffset))
 						canBeHit = true;
 					else
 						canBeHit = false;

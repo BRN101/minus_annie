@@ -33,6 +33,7 @@ class DialogueBox extends FlxSpriteGroup
 	var portraitBeta:FlxSprite;
 	var portraitMad:FlxSprite;
 	var portraitLeft2:FlxSprite;
+	var portraitGF:FlxSprite;
 
 	var handSelect:FlxSprite;
 	var bgFade:FlxSprite;
@@ -99,6 +100,33 @@ class DialogueBox extends FlxSpriteGroup
 				box.height = 200;
 				box.x = -95;
 				box.y = 390;
+			case 'lover':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('speech_bubble_talking');
+				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
+				box.animation.addByIndices('normal', 'speech bubble normal', [11], "", 24);
+				box.width = 200;
+				box.height = 200;
+				box.x = -95;
+				box.y = 390;
+			case 'tug-of-war':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('speech_bubble_talking');
+				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
+				box.animation.addByIndices('normal', 'speech bubble normal', [11], "", 24);
+				box.width = 200;
+				box.height = 200;
+				box.x = -95;
+				box.y = 390;
+			case 'animal':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('speech_bubble_talking');
+				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
+				box.animation.addByIndices('normal', 'speech bubble normal', [11], "", 24);
+				box.width = 200;
+				box.height = 200;
+				box.x = -95;
+				box.y = 390;
 		}
 
 		this.dialogueList = dialogueList;
@@ -118,7 +146,30 @@ class DialogueBox extends FlxSpriteGroup
 			portraitLeft.visible = false;
 		}
 		
-		else if(PlayState.SONG.song.toLowerCase() == 'good enough')
+		else if(PlayState.SONG.song.toLowerCase() == 'good enough' || PlayState.SONG.song.toLowerCase() == 'lover' || PlayState.SONG.song.toLowerCase() == 'tug-of-war')
+		{
+			//portraitLeft = new FlxSprite(-600, 60);
+			portraitLeft = new FlxSprite(100, 150);
+			portraitLeft.frames = Paths.getSparrowAtlas('portraits/annietexto', 'shared');
+			portraitLeft.animation.addByPrefix('enter', 'annietext', 24, true);
+			portraitLeft.animation.addByPrefix('stop', 'anniestop', 24, false);
+			portraitLeft.setGraphicSize(Std.int(portraitLeft.width * PlayState.daPixelZoom * 0.12));
+			portraitLeft.updateHitbox();
+			portraitLeft.scrollFactor.set();
+			add(portraitLeft);
+			portraitLeft.visible = false;
+
+			portraitLeft2 = new FlxSprite(100, 150); // i did this cuz im stupid
+			portraitLeft2.frames = Paths.getSparrowAtlas('portraits/annietexto', 'shared');
+			portraitLeft2.animation.addByPrefix('enter', 'annietext', 24, true);
+			portraitLeft2.animation.addByPrefix('stop', 'anniestop', 24, false);
+			portraitLeft2.setGraphicSize(Std.int(portraitLeft2.width * PlayState.daPixelZoom * 0.12));
+			portraitLeft2.updateHitbox();
+			portraitLeft2.scrollFactor.set();
+			add(portraitLeft2);
+			portraitLeft2.visible = false;
+		}
+		else if(PlayState.SONG.song.toLowerCase() == 'animal' )
 		{
 			//portraitLeft = new FlxSprite(-600, 60);
 			portraitLeft = new FlxSprite(100, 150);
@@ -154,7 +205,7 @@ class DialogueBox extends FlxSpriteGroup
 			portraitRight.visible = false;
 		}
 
-		else if(PlayState.SONG.song.toLowerCase() == 'good enough')
+		else if(PlayState.SONG.song.toLowerCase() == 'good enough' || PlayState.SONG.song.toLowerCase() == 'lover' || PlayState.SONG.song.toLowerCase() == 'tug-of-war')
 		{
 			//portraitRight = new FlxSprite(0, 60);
 			portraitRight = new FlxSprite(750, 250);
@@ -186,6 +237,59 @@ class DialogueBox extends FlxSpriteGroup
 			portraitMad.scrollFactor.set();
 			add(portraitMad);
 			portraitMad.visible = false;
+
+			portraitGF = new FlxSprite(780, 200);
+			portraitGF.frames = Paths.getSparrowAtlas('fat update/gf', 'shared');
+			portraitGF.animation.addByPrefix('enter', 'GF habla', 24, true);
+			portraitGF.animation.addByPrefix('stop', 'GF stop', 24, false);
+			portraitGF.setGraphicSize(Std.int(portraitGF.width * PlayState.daPixelZoom * 0.15));
+			portraitGF.updateHitbox();
+			portraitGF.scrollFactor.set();
+			add(portraitGF);
+			portraitGF.visible = false;
+		}
+		else if(PlayState.SONG.song.toLowerCase() == 'animal') //i don't like how i made this but im too lazy to change it
+		{
+			//portraitRight = new FlxSprite(0, 60);
+			portraitRight = new FlxSprite(750, 250);
+			portraitRight.frames = Paths.getSparrowAtlas('fat update/blutextoasustado', 'shared');
+			portraitRight.animation.addByPrefix('enter', 'bluetextoasusado', 24, true);
+			portraitRight.animation.addByPrefix('stop', 'bluestop', 24, false);
+			portraitRight.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.12));
+			portraitRight.updateHitbox();
+			portraitRight.scrollFactor.set();
+			add(portraitRight);
+			portraitRight.visible = false;
+
+			portraitBeta = new FlxSprite(750, 250);
+			portraitBeta.frames = Paths.getSparrowAtlas('fat update/betatextaasustado', 'shared');
+			portraitBeta.animation.addByPrefix('enter', 'betatextoasustado', 24, true);
+			portraitBeta.animation.addByPrefix('stop', 'betastop', 24, false);
+			portraitBeta.setGraphicSize(Std.int(portraitBeta.width * PlayState.daPixelZoom * 0.12));
+			portraitBeta.updateHitbox();
+			portraitBeta.scrollFactor.set();
+			add(portraitBeta);
+			portraitBeta.visible = false;
+
+			portraitMad = new FlxSprite(780, 280);
+			portraitMad.frames = Paths.getSparrowAtlas('portraits/meantexto', 'shared');
+			portraitMad.animation.addByPrefix('enter', 'meantexto', 24, true);
+			portraitMad.animation.addByPrefix('stop', 'meanstop', 24, false);
+			portraitMad.setGraphicSize(Std.int(portraitMad.width * PlayState.daPixelZoom * 0.12));
+			portraitMad.updateHitbox();
+			portraitMad.scrollFactor.set();
+			add(portraitMad);
+			portraitMad.visible = false;
+
+			portraitGF = new FlxSprite(780, 200);
+			portraitGF.frames = Paths.getSparrowAtlas('fat update/gf', 'shared');
+			portraitGF.animation.addByPrefix('enter', 'GF habla', 24, true);
+			portraitGF.animation.addByPrefix('stop', 'GF stop', 24, false);
+			portraitGF.setGraphicSize(Std.int(portraitGF.width * PlayState.daPixelZoom * 0.15));
+			portraitGF.updateHitbox();
+			portraitGF.scrollFactor.set();
+			add(portraitGF);
+			portraitGF.visible = false;
 		}
 		
 		
@@ -198,7 +302,7 @@ class DialogueBox extends FlxSpriteGroup
 		//portraitLeft.screenCenter(X);
 
 		handSelect = new FlxSprite(FlxG.width * 0.9, FlxG.height * 0.9).loadGraphic(Paths.image('weeb/pixelUI/hand_textbox'));
-		add(handSelect);
+		//add(handSelect);
 
 
 		if (!talkingRight)
@@ -266,7 +370,7 @@ class DialogueBox extends FlxSpriteGroup
 				{
 					isEnding = true;
 
-					if (PlayState.SONG.song.toLowerCase() == 'senpai' || PlayState.SONG.song.toLowerCase() == 'thorns' || PlayState.SONG.song.toLowerCase() == 'good enough')
+					if (PlayState.SONG.song.toLowerCase() == 'senpai' || PlayState.SONG.song.toLowerCase() == 'thorns' || PlayState.SONG.song.toLowerCase() == 'good enough' || PlayState.SONG.song.toLowerCase() == 'lover' || PlayState.SONG.song.toLowerCase() == 'tug-of-war' || PlayState.SONG.song.toLowerCase() == 'animal')
 						FlxG.sound.music.fadeOut(2.2, 0);
 
 					new FlxTimer().start(0.2, function(tmr:FlxTimer)
@@ -303,6 +407,7 @@ class DialogueBox extends FlxSpriteGroup
         portraitRight.animation.play('stop');
 		portraitBeta.animation.play('stop');
 		portraitMad.animation.play('stop');
+		portraitGF.animation.play('stop');
 	}
 	var isEnding:Bool = false;
 
@@ -321,6 +426,7 @@ class DialogueBox extends FlxSpriteGroup
 		switch (curCharacter)
 		{
 			case 'dad':
+				portraitBeta.visible = false;
 				portraitLeft2.visible = false;
 				portraitRight.visible = false;
 				portraitMad.visible = false;
@@ -331,6 +437,7 @@ class DialogueBox extends FlxSpriteGroup
 					portraitLeft.animation.play('enter');
 				}
 			case 'dad2':
+				portraitBeta.visible = false;
 				portraitLeft.visible = false;
 				portraitRight.visible = false;
 				portraitMad.visible = false;
@@ -345,6 +452,7 @@ class DialogueBox extends FlxSpriteGroup
 				portraitLeft2.visible = false;
 				portraitBeta.visible = false;
 				portraitMad.visible = false;
+				portraitGF.visible = false;
 				if (!portraitRight.visible)
 				{
 					portraitRight.visible = true;
@@ -355,20 +463,33 @@ class DialogueBox extends FlxSpriteGroup
 				portraitLeft2.visible = false;
 				portraitMad.visible = false;
 				portraitRight.visible = false;
+				portraitGF.visible = false;
 				if (!portraitRight.visible)
 				{
 					portraitBeta.visible = true;
 					portraitBeta.animation.play('enter');
 				}
 		case 'bfmad':
-				portraitLeft.visible = false;
-				portraitLeft2.visible = false;
-				portraitBeta.visible = false;
-				portraitRight.visible = false;
+			portraitLeft.visible = false;
+			portraitLeft2.visible = false;
+			portraitBeta.visible = false;
+			portraitRight.visible = false;
+			portraitGF.visible = false;
 				if (!portraitRight.visible)
 				{
 					portraitMad.visible = true;
 					portraitMad.animation.play('enter');
+				}
+		case 'gf':
+			portraitLeft.visible = false;
+			portraitLeft2.visible = false;
+			portraitBeta.visible = false;
+			portraitRight.visible = false;  
+			portraitMad.visible = false;
+			if (!portraitGF.visible)
+				{
+					portraitGF.visible = true;
+					portraitGF.animation.play('enter');
 				}
 		}
 	}

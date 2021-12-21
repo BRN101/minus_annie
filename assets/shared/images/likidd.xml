@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="likidd.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liquidito0000" x="0" y="0" width="164" height="105" pivotX="463.95" pivotY="270.95" frameX="-463" frameY="-270" frameWidth="1038" frameHeight="665"/>
+	<SubTexture name="liquidito0001" x="164" y="0" width="487" height="313" frameX="-290" frameY="-165" frameWidth="1038" frameHeight="665"/>
+	<SubTexture name="liquidito0002" x="164" y="0" width="487" height="313" frameX="-290" frameY="-165" frameWidth="1038" frameHeight="665"/>
+	<SubTexture name="liquidito0003" x="651" y="0" width="1038" height="665"/>
+	<SubTexture name="liquidito0004" x="0" y="665" width="989" height="633" frameX="-25" frameY="-15" frameWidth="1038" frameHeight="665"/>
+	<SubTexture name="liquidito0005" x="0" y="665" width="989" height="633" frameX="-25" frameY="-15" frameWidth="1038" frameHeight="665"/>
+	<SubTexture name="liquidito0006" x="989" y="665" width="988" height="634" frameX="-26" frameY="-14" frameWidth="1038" frameHeight="665"/>
+	<SubTexture name="liquidito0007" x="0" y="665" width="989" height="633" frameX="-25" frameY="-15" frameWidth="1038" frameHeight="665"/>
+	<SubTexture name="liquidito0008" x="0" y="665" width="989" height="633" frameX="-25" frameY="-15" frameWidth="1038" frameHeight="665"/>
+</TextureAtlas>

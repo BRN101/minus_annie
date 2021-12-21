@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blueafondoasustado.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue asustadito0000" x="0" y="0" width="400" height="376" pivotX="-47.65" pivotY="-9.55" frameX="-24" frameY="-16" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="blue asustadito0001" x="400" y="0" width="403" height="378" frameX="-21" frameY="-14" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="blue asustadito0002" x="803" y="0" width="414" height="384" frameX="-11" frameY="-8" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="blue asustadito0003" x="1217" y="0" width="424" height="391" frameX="-3" frameY="-2" frameWidth="429" frameHeight="393"/>
+	<SubTexture name="blue asustadito0004" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0005" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0006" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0007" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0008" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0009" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0010" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0011" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0012" x="0" y="391" width="429" height="393"/>
+	<SubTexture name="blue asustadito0013" x="0" y="391" width="429" height="393"/>
+</TextureAtlas>

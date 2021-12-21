@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minusanniee.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annie idle animation0000" x="0" y="0" width="459" height="680" pivotX="-13.5" pivotY="0" frameX="-10" frameY="-20" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0001" x="459" y="0" width="459" height="686" frameX="-6" frameY="-14" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0002" x="918" y="0" width="458" height="691" frameX="-3" frameY="-9" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0003" x="1376" y="0" width="460" height="695" frameX="-2" frameY="-5" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0004" x="1836" y="0" width="461" height="698" frameX="-1" frameY="-2" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0005" x="2297" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0006" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0007" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0008" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0009" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0010" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0011" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0012" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annie idle animation0013" x="2759" y="0" width="462" height="700" frameX="0" frameY="0" frameWidth="469" frameHeight="700"/>
+	<SubTexture name="annieabajo0000" x="3221" y="0" width="539" height="483" pivotX="-131.45" pivotY="11.65" frameX="0" frameY="-14" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0001" x="3221" y="0" width="539" height="483" frameX="0" frameY="-14" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0002" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0003" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0004" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0005" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0006" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0007" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0008" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0009" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0010" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0011" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0012" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0013" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0014" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0015" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0016" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0017" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0018" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="annieabajo0019" x="0" y="700" width="518" height="495" frameX="-7" frameY="0" frameWidth="539" frameHeight="497"/>
+	<SubTexture name="anniearriba0000" x="518" y="700" width="496" height="721" pivotX="-52.45" pivotY="87.35" frameX="-7" frameY="0" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0001" x="518" y="700" width="496" height="721" frameX="-7" frameY="0" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0002" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0003" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0004" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0005" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0006" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0007" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0008" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0009" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0010" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0011" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0012" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0013" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0014" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0015" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0016" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0017" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0018" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniearriba0019" x="1014" y="700" width="507" height="717" frameX="0" frameY="-4" frameWidth="507" frameHeight="721"/>
+	<SubTexture name="anniederecha0000" x="1521" y="700" width="491" height="701" pivotX="-39.1" pivotY="-31.95" frameX="0" frameY="-2" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0001" x="1521" y="700" width="491" height="701" frameX="0" frameY="-2" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0002" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0003" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0004" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0005" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0006" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0007" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0008" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0009" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0010" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0011" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0012" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0013" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0014" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0015" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0016" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0017" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0018" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="anniederecha0019" x="2012" y="700" width="483" height="703" frameX="-2" frameY="0" frameWidth="491" frameHeight="703"/>
+	<SubTexture name="annieizquierda0000" x="2495" y="700" width="567" height="600" pivotX="91.9" pivotY="-110.6" frameX="0" frameY="-6" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0001" x="2495" y="700" width="567" height="600" frameX="0" frameY="-6" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0002" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0003" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0004" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0005" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0006" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0007" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0008" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0009" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0010" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0011" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0012" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0013" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0014" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0015" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0016" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0017" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0018" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+	<SubTexture name="annieizquierda0019" x="3062" y="700" width="566" height="608" frameX="-4" frameY="0" frameWidth="570" frameHeight="608"/>
+</TextureAtlas>

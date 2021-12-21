@@ -25,18 +25,21 @@ class StoryMenuState extends MusicBeatState
 	var scoreText:FlxText;
 
 	var weekData:Array<Dynamic> = [
-		['Good Enough', 'Lover', 'Tug Of War']
+		['Good Enough', 'Lover', 'Tug Of War'],
+		['Animal', 'Take a Swig of This', 'Ms Mediocre']
 	];
 	var curDifficulty:Int = 1;
 
 	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];
 
 	var weekCharacters:Array<Dynamic> = [
+		['annie', 'bf', 'gf'],
 		['annie', 'bf', 'gf']
 	];
 
 	var weekNames:Array<String> = [
-		"Minus Annie"
+		"Minus Annie",
+		"The Liquid"
 	];
 
 	var txtWeekTitle:FlxText;

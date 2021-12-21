@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="betatextaasustado.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="betatextoasustado0000" x="0" y="0" width="411" height="413" pivotX="-276" pivotY="201.6" frameX="-23" frameY="0" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betatextoasustado0001" x="411" y="0" width="410" height="413" frameX="-18" frameY="-3" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betatextoasustado0002" x="0" y="413" width="410" height="412" frameX="-5" frameY="-12" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betatextoasustado0003" x="410" y="413" width="411" height="412" frameX="0" frameY="-15" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betatextoasustado0004" x="410" y="413" width="411" height="412" frameX="0" frameY="-15" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betatextoasustado0005" x="410" y="413" width="411" height="412" frameX="0" frameY="-15" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betatextoasustado0006" x="410" y="413" width="411" height="412" frameX="0" frameY="-15" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betatextoasustado0007" x="410" y="413" width="411" height="412" frameX="0" frameY="-15" frameWidth="434" frameHeight="427"/>
+	<SubTexture name="betastop0000" x="0" y="0" width="411" height="413" pivotX="-276" pivotY="201.6" frameX="-23" frameY="0" frameWidth="434" frameHeight="427"/>
+</TextureAtlas>

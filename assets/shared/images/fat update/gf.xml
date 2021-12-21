@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF habla0000" x="0" y="0" width="335" height="440" pivotX="-26.8" pivotY="322.5" frameX="0" frameY="0" frameWidth="335" frameHeight="447"/>
+	<SubTexture name="GF habla0001" x="335" y="0" width="334" height="442" frameX="-1" frameY="0" frameWidth="335" frameHeight="447"/>
+	<SubTexture name="GF habla0002" x="669" y="0" width="330" height="447" frameX="-5" frameY="0" frameWidth="335" frameHeight="447"/>
+	<SubTexture name="GF habla0003" x="0" y="447" width="328" height="447" frameX="-7" frameY="0" frameWidth="335" frameHeight="447"/>
+	<SubTexture name="GF habla0004" x="0" y="447" width="328" height="447" frameX="-7" frameY="0" frameWidth="335" frameHeight="447"/>
+	<SubTexture name="GF habla0005" x="0" y="447" width="328" height="447" frameX="-7" frameY="0" frameWidth="335" frameHeight="447"/>
+	<SubTexture name="GF habla0006" x="0" y="447" width="328" height="447" frameX="-7" frameY="0" frameWidth="335" frameHeight="447"/>
+	<SubTexture name="GF habla0007" x="0" y="447" width="328" height="447" frameX="-7" frameY="0" frameWidth="335" frameHeight="447"/>
+        <SubTexture name="GF stop0000" x="0" y="0" width="335" height="440" pivotX="-26.8" pivotY="322.5" frameX="0" frameY="0" frameWidth="335" frameHeight="447"/>
+</TextureAtlas>
